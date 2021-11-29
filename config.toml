@@ -1,0 +1,8 @@
+baseURL = 'https://www.datahowto.org/'
+languageCode = 'fr-fr'
+defaultContentLanguage = "fr"
+title = 'Data HowTo'
+
+theme = "hugo-theme-learn"
+
+defaultContentLanguageInSubdir= true
